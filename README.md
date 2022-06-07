@@ -1,8 +1,9 @@
 # brraskoland
-nic nenič bez dobrého odůvodnění 
+Ahoj,
+vítej v našem github repository - online složce, kam může kdokoli z vás přidávat soubory, takže budou organizované, místo aby byly rozházené po celém discordu. Pro přidávání a upravování si nejspíš budete muset založit účet, tak si potom nezapoměňte dát tohle repo do "starred", ať ho potom můžete jednoduše najít. Jakékoli dotazy směřujte na Radovana, Adama a Járu.
 
-jsem linej psat na dis, ale upravuj jak chces
+Pokud budete přidávat soubor, zapište to prosím do changelogu, který najdete na hlavní stránce. Stačí jednoduše "přidány zápisky z toho a toho" či "upraveno to a to".
 
-zaoženo 9:55 7/6/22
+- Radovan
 
-radovane uprav to do nejaky pohodlny verze nevimm jak to chces aby to fungovalo napr docx file bude sranda sem davat
+založeno 9:55 7/6/22
